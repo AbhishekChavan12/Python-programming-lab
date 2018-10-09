@@ -1,2 +1,2 @@
 str="Hello World" #initialisation
-print(str) #printing statemnet
+print(str) #printing statement
